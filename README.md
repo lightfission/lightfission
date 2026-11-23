@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lightfission/lightfission** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+# hello, world<span>.</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub>just a little corner of the internet</sub>
+
+<br />
+<br />
+
+`create` &nbsp;·&nbsp; `explore` &nbsp;·&nbsp; `repeat`
+
+<br />
+
+─── &nbsp; ✦ &nbsp; ───
+
+<br />
+
+<sub>less noise, more curiosity.</sub>
+
+<br />
+
+</div>
